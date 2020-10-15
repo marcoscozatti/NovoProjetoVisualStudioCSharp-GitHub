@@ -10,7 +10,8 @@ namespace NovoProjetoVisualStudioCSharp_GitHub
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Olá mundo!!!");
+			
+			Console.WriteLine("Hello World");
 		}
 	}
 }
